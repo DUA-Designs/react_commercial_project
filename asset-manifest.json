@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react_commercial_project/static/css/main.514aaa80.css",
+    "main.js": "/react_commercial_project/static/js/main.7cebe859.js",
+    "static/media/tara.jpg": "/react_commercial_project/static/media/tara.95a7486591d0c7b81d43.jpg",
+    "static/media/p6.jpg": "/react_commercial_project/static/media/p6.1b825901b772af7385e6.jpg",
+    "static/media/pexels-vilvah-store-17656720.jpg": "/react_commercial_project/static/media/pexels-vilvah-store-17656720.1b825901b772af7385e6.jpg",
+    "static/media/pexels-anna-shvets-5069404.jpg": "/react_commercial_project/static/media/pexels-anna-shvets-5069404.4ac5e0f541feef1d6489.jpg",
+    "static/media/pexels-rachel-claire-5531747.jpg": "/react_commercial_project/static/media/pexels-rachel-claire-5531747.534f8ba240be1d1979bb.jpg",
+    "static/media/pexels-liza-summer-6348140.jpg": "/react_commercial_project/static/media/pexels-liza-summer-6348140.4ac6ee3613251f4b68f3.jpg",
+    "static/media/pexels-kampus-production-8422712.jpg": "/react_commercial_project/static/media/pexels-kampus-production-8422712.5d1c08d9eeb2c1e9b376.jpg",
+    "static/media/p5.jpg": "/react_commercial_project/static/media/p5.8118ccc7d06201bfb7d0.jpg",
+    "static/media/p3.jpg": "/react_commercial_project/static/media/p3.472a6cfb195aea2fdcac.jpg",
+    "static/media/aboutImg.jpg": "/react_commercial_project/static/media/aboutImg.fc3eac9742270d7e6f64.jpg",
+    "static/media/p2.jpg": "/react_commercial_project/static/media/p2.1f14687493ce75ee0e70.jpg",
+    "static/media/p4.jpg": "/react_commercial_project/static/media/p4.dec16ebccefb238fa36e.jpg",
+    "static/media/p1.jpg": "/react_commercial_project/static/media/p1.324c2964afd36fbe2162.jpg",
+    "static/media/ddblack.png": "/react_commercial_project/static/media/ddblack.4630ea7943a62148b26a.png",
+    "index.html": "/react_commercial_project/index.html",
+    "main.514aaa80.css.map": "/react_commercial_project/static/css/main.514aaa80.css.map",
+    "main.7cebe859.js.map": "/react_commercial_project/static/js/main.7cebe859.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.514aaa80.css",
+    "static/js/main.7cebe859.js"
+  ]
+}
