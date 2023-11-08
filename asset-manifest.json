@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_commercial_project/static/css/main.514aaa80.css",
-    "main.js": "/react_commercial_project/static/js/main.7cebe859.js",
+    "main.js": "/react_commercial_project/static/js/main.d2b9b0c4.js",
     "static/media/tara.jpg": "/react_commercial_project/static/media/tara.95a7486591d0c7b81d43.jpg",
     "static/media/p6.jpg": "/react_commercial_project/static/media/p6.1b825901b772af7385e6.jpg",
     "static/media/pexels-vilvah-store-17656720.jpg": "/react_commercial_project/static/media/pexels-vilvah-store-17656720.1b825901b772af7385e6.jpg",
@@ -18,10 +18,10 @@
     "static/media/ddblack.png": "/react_commercial_project/static/media/ddblack.4630ea7943a62148b26a.png",
     "index.html": "/react_commercial_project/index.html",
     "main.514aaa80.css.map": "/react_commercial_project/static/css/main.514aaa80.css.map",
-    "main.7cebe859.js.map": "/react_commercial_project/static/js/main.7cebe859.js.map"
+    "main.d2b9b0c4.js.map": "/react_commercial_project/static/js/main.d2b9b0c4.js.map"
   },
   "entrypoints": [
     "static/css/main.514aaa80.css",
-    "static/js/main.7cebe859.js"
+    "static/js/main.d2b9b0c4.js"
   ]
 }
